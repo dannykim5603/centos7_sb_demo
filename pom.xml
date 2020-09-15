@@ -103,10 +103,8 @@
 				<version>2.2</version>
 				<configuration>
 					<url>http://blog.n32.st.dailyvillains.site:8080/manager/text</url>
-					<server>TomcatServer</server>
+					<server>blog_n32_st_dailyvillains_site__manager_text</server>
 					<path>/</path>
-					<username>admin</username>
-					<password>ehddus05!</password>
 				</configuration>
 			</plugin>
 			<plugin>

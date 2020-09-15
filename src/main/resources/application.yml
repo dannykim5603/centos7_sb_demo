@@ -66,7 +66,7 @@ spring:
     multipart:
       location: /tmp
   datasource:
-    username: dvl
+    username: dvlLocal
     password: DANNYkim5603!
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://49.50.164.225:3306/st_n32_blog?useUnicode=true&characterEncoding=utf8&autoReconnect=true&serverTimezone=Asia/Seoul&useOldAliasMetadataBehavior=true&zeroDateTimeNehavior=convertToNull
